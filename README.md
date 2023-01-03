@@ -1,10 +1,9 @@
 # MayaBouncingBallScripts
 
-*This repository contains scripts and example scene with necessary textures and shaders.*
+*This repository contains scripts and example scene with necessary textures and shaders.* 
+*The scripts included in this repository were used in Maya Bouncing Ball Project.*
 
-The scripts included in this repository were used in Maya Bouncing Ball Project.
-
-The final video can be seen here: ![video](/docs/Poczkai_Patrycja.mov)
+The final project video can be seen here: [download video](/docs/Poczkai_Patrycja.mov)
 
 ![finalImage](/docs/finalImage.png)
 
